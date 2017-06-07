@@ -27,6 +27,13 @@
 -(void)coolDown
 {
     //sdf sdf
+    if(NO)
+    {
+        
+    }
+    else
+    {
+    }
 }
 
 @end
