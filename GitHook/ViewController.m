@@ -24,12 +24,14 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
-- (void) Hello
+- (void) HelloVwllo
 {
     if (YES) {
         //Do something
     }
-    else {
+    else
+    
+    {
         //Do something else
     }
 
