@@ -24,17 +24,9 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
-- (void) HelloVwlloddd
+-(void)coolDown
 {
-    if (YES) {
-        //Do something
-    }
-    else
-    
-    {
-        //Do something else
-    }
-
+    //sdf sdf
 }
 
 @end
