@@ -26,7 +26,13 @@
 }
 - (void) Hello
 {
-    
+    if (YES) {
+        //Do something
+    }
+    else {
+        //Do something else
+    }
+
 }
 
 @end
