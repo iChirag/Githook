@@ -24,7 +24,7 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
--(void)coolDown
+-(void)wowoOkay
 {
     //sdf sdf
     if(NO)
@@ -33,6 +33,8 @@
     }
     else
     {
+        
+        //gsd
     }
 }
 
